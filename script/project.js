@@ -47,6 +47,13 @@ const projects = {
         description: "Passionné par la retouche photo et la création visuelle, je prends plaisir à transformer des images brutes en visuels attrayants et professionnels. J’aime explorer les couleurs, la composition et les effets graphiques pour donner vie à des projets créatifs et soigner les détails, tout en combinant sens artistique et maîtrise technique.",
         tech: ["Adobe Photoshop", "Adobe illustator","GIMP"],
          githublink:"#"
+    },
+    "MediLink":{
+         title: "MediLink",
+        image: "assets/project7.png",
+        description: "MediLink est une plateforme numérique conçue pour améliorer la communication et la gestion des informations entre les médecins et les patients. Le projet vise à digitaliser certaines activités médicales telles que la consultation, la gestion des patients et l’envoi de prescriptions. Le système se compose de deux parties principales : une application mobile destinée aux patients et un tableau de bord web pour les médecins. L’application patient permet de consulter les prescriptions, de recevoir des notifications médicales et de suivre l’historique des consultations. Le tableau de bord médecin permet quant à lui de gérer les patients, créer des consultations et envoyer des prescriptions de manière numérique. La plateforme est développée en utilisant Flutter pour l’application mobile, React pour l’interface web du médecin, et Firebase comme infrastructure backend pour la gestion des données, l’authentification et les notifications via Firebase Cloud Messaging. La version MediLink 1.0 constitue un prototype fonctionnel permettant de démontrer la faisabilité du système. Elle offre les fonctionnalités essentielles pour la gestion des consultations et des prescriptions numériques. Les versions futures du projet pourront intégrer des fonctionnalités avancées telles que la téléconsultation, l’analyse de données médicales et des systèmes intelligents d’assistance médicale. Ainsi, MediLink propose une solution technologique visant à moderniser la gestion des consultations médicales et à améliorer l’accessibilité des informations de santé pour les patients et les professionnels de santé.",
+        tech: ["React/Tailwind", "Python"],
+         githublink:"https://github.com/RalisataRelahy/projet-L3-web.git"
     }
 };
 
